@@ -1,6 +1,9 @@
 # SafeCity RD – A Safer Future for Dominican Communities 🇩🇴
 
-**SafeCity RD** is a digital citizen security platform developed to enhance crime prevention and real-time reporting in the Dominican Republic. The platform empowers users to anonymously report incidents, receive safety alerts, view risk zones, and engage with their local community through a secure and easy-to-use mobile and web application.
+**SafeCity RD** is a digital citizen security platform developed to enhance crime prevention and
+real-time reporting in the Dominican Republic. The platform empowers users to anonymously report
+incidents, receive safety alerts, view risk zones, and engage with their local community through a
+secure and easy-to-use mobile and web application.
 
 ---
 
@@ -45,7 +48,7 @@ cd Safe-City-RD
 npm install
 cp .env.example .env  # configure environment variables
 npm run dev
-````
+```
 
 ---
 
@@ -65,28 +68,28 @@ Safe-City-RD/
 
 ## 👥 Target Audience
 
-* Citizens aged 18–35 in urban and peri-urban areas.
-* Local governments and municipal safety committees.
-* NGOs and community outreach organizations.
-* Emergency response teams and law enforcement.
+- Citizens aged 18–35 in urban and peri-urban areas.
+- Local governments and municipal safety committees.
+- NGOs and community outreach organizations.
+- Emergency response teams and law enforcement.
 
 ---
 
 ## 📈 Project Goals
 
-* Strengthen the response capacity of security institutions.
-* Foster community-based prevention and awareness.
-* Leverage technology for early detection and risk reduction.
+- Strengthen the response capacity of security institutions.
+- Foster community-based prevention and awareness.
+- Leverage technology for early detection and risk reduction.
 
 ---
 
 ## 📌 Roadmap
 
-* [x] Survey-based research (ENHOGAR 2022–2024)
-* [x] Market segmentation and demand projection
-* [ ] MVP launch (mobile app + admin dashboard)
-* [ ] Pilot program with selected municipalities
-* [ ] National rollout with institutional partnerships
+- [x] Survey-based research (ENHOGAR 2022–2024)
+- [x] Market segmentation and demand projection
+- [ ] MVP launch (mobile app + admin dashboard)
+- [ ] Pilot program with selected municipalities
+- [ ] National rollout with institutional partnerships
 
 ---
 
